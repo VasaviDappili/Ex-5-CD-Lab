@@ -1,6 +1,6 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# Date: 06-11-2024
+# Date: 11/11/2024
 # Developed by: DAPPILI VASAVI
 # Register number: 212223040030
 # Aim:
